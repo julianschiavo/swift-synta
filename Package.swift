@@ -46,7 +46,7 @@ if buildDynamicLibrary {
 }
 
 let package = Package(
-  name: "swift-syntax",
+  name: "swift-synta",
   platforms: [
     .macOS(.v10_15),
     .iOS(.v13),
