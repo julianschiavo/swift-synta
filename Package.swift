@@ -212,7 +212,7 @@ let package = Package(
       name: "SwiftSynta",
       dependencies: [
         "_SwiftSyntaxCShim", "SwiftSyntax50", "SwiftSyntax51", "SwiftSyntax60", "SwiftSyntax61", "SwiftSyntax62",
-        "SwiftSyntax603",
+        "SwiftSyntax63",
       ],
       exclude: ["CMakeLists.txt"],
       swiftSettings: swiftSyntaxSwiftSettings
